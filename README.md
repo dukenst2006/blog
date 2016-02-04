@@ -1,5 +1,9 @@
 # blog
 Portfolio assignment for Coursera 'Responsive Website Tutorial and Examples' course week 3
+Technology Used
+- Meteor Framework, a JavaScript framework
+- MongoDB — Database back end.
+- Bootstrap
 About this site…
 This site was written for the portfolio assignment of the Coursera Responsive Website Tutorial and Examples course.
 
